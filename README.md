@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shirley </h1>
 <h3 align="center">A passionate frontend developer from Spain</h3>
 
-- 🔭 I’m currently working on [DevOps path]([https://github.com/Shirley-PH/tweetapp-clone](https://github.com/Shirley-PH/DevOps-Learning-steps))
+- 🔭 I’m currently working on [DevOps path](https://github.com/Shirley-PH/DevOps-Learning-steps)
 
 - 🌱 I’m currently learning **DevOps and Cybersecurity**
 

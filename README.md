@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shirley </h1>
 <h3 align="center">A passionate frontend developer from Spain</h3>
 
-- 🔭 I’m currently working on [TweetApp-clone](https://github.com/Shirley-PH/tweetapp-clone)
+- 🔭 I’m currently working on [DevOps path]([https://github.com/Shirley-PH/tweetapp-clone](https://github.com/Shirley-PH/DevOps-Learning-steps))
 
-- 🌱 I’m currently learning **Front End Developer**
+- 🌱 I’m currently learning **DevOps and Cybersecurity**
 
-- 💬 Ask me about **Cybersecurity and OSINT**
+- 💬 Ask me about **DevOps, Cybersecurity and OSINT**
 
 - 📫 How to reach me **sporroah@gmail.com**
 

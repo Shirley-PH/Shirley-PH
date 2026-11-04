@@ -1,43 +1,86 @@
 # <h1 align="center">Hi, I'm Shirley <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <div align=center>
+<h3>Software Developer | Aspiring DevOps Engineer | Cybersecurity Enthusiast </h3> 
         <img src="https://readme-typing-svg.herokuapp.com/?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Fronted-End+Engineer;DevOps+Students;Problem+Solving;Cybersecurity+passionate;Open-Source+Enthusiast" alt="Headline" />
+<h4>Building secure, reliable, and automated technology solutions.</h4>
+📍 Spain | 🌍 Open to opportunities
 </div>
 <!-- Beginning image of student in front of his computer -->
 <h3> <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me</h3>
 
+I'm a Software Developer with a strong interest in **DevOps Engineering, Cloud Infrastructure, and Defensive Cybersecurity**.
+
 <picture> <img align="right" src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width = 250px></picture> <!-- This a women imagen on the right side -->
 
--  🤔 A passionate frontend developer from Spain
+- 🔭 **I’m currently working on**: [My DevOps Learning Journey](https://github.com/Shirley-PH/DevOps-Learning-steps)
 
-- 🔭 I’m currently working on [DevOps path](https://github.com/Shirley-PH/DevOps-Learning-steps)
+- 🌱 **I’m currently learning**: Docker, Linux, Cloud Infrastructure, Networking, and Cybersecurity
 
-- 🌱 I’m currently learning **DevOps and Cybersecurity**
+- 💬 **Career goal**: Transitioning into a DevOps Engineer or Junior Cybersecurity / Blue Team role
+  
+- 🛡️ **Security interests**: Network Security, Vulnerability Assessment, Threat Detection, Log Analysis, and Security Monitoring
+  
+- ⚙️ **DevOps interests**: CI/CD, Containerization, Infrastructure Automation, Cloud Computing, and System Reliability
+  
+- 🗣️ **Let's talk about**: Software Development, DevOps, Linux, Networking, and Cybersecurity
 
-- 💬 Ask me about **DevOps, Cybersecurity and Networks**
-
-- 📫 How to reach me **sporroah@gmail.com**
+- 📫 **How to reach me**: sporroah@gmail.com
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Javascript | Python | MySQL | PHP | React
+- 💻 &nbsp; Javascript | Python | MySQL | PHP | React | SQL
+
+- 🌐 &nbsp; HTML | CSS | Bootstrap | Sass 
   
 - ☁️ &nbsp; Docker | Linux | Azure | Rancher
-  
-- 🌐 &nbsp; HTML | CSS | Bootstrap | Sass 
 
-- 🛜 &nbsp; Networks | Vulnerability Assessment | Last privilage | Access Control | Monitoring log
+- 🧱&nbsp; Wireshark | Nmap | Bash | Wazu | Metasploit
 
-<h3>🚨 To Learn</h3>
-  
-- 📝 AWS | Microservices
-  
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shirley porroa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shirley porroa" height="30" width="40" /></a>
-</p>
+- 🛜 &nbsp; Networks Security | Vulnerability Assessment | Last privilage | Access Control | Monitoring log
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </p>
+<h3>🚀Featured Learning & Projects</h3>
+
+| **Project** | **Description** |
+|:-:|:-:|
+|DevOps Learning Journey|Hands-on learning, practical exercises, and technical notes as I develop my DevOps skills.|
+|Cybersecurity Labs|Practical exercises focused on networking, security tools, vulnerability assessment, and defensive security.|
+|Infrastructure & Automation|Experiments with Linux, Docker, scripting, and cloud technologies.|
+
+<h3>🚨 Currently Exploring</h3>
+  
+- ☁️ AWS and Cloud Architecture
+
+- 🔄 CI/CD Pipelines and GitHub Actions
+
+- 🐳 Docker and Kubernetes
+
+- 🏗️ Infrastructure as Code (Terraform)
+
+- 🔐 SIEM and Security Monitoring
+
+- 🛡️ Blue Team Operations and Incident Response
+
+- 🌐 Network Security
+  
+<h3 align="left"> 🤝Connect with me:</h3>
+
+<div align="center">
+<a href="https://www.linkedin.com/in/shirley-porroa-16056b12a/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:sporroah@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+</div>
+<hr>
+<div align="center">
+
+💡 **Always learning. Always improving. Always building.**
+
+***"The best way to learn technology is to build, break, secure, and improve it."***
+
+</div>
 
 |There is always something new to learn|Trying get some code done every day I can|
 |:-:|:-:|

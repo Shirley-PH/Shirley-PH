@@ -13,6 +13,7 @@ I'm a Software Developer with a strong interest in **DevOps Engineering, Cloud I
 <picture> <img align="right" src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width = 250px></picture> <!-- This a women imagen on the right side -->
 
 - 🔭 **I’m currently working on**: [My DevOps Learning Journey](https://github.com/Shirley-PH/DevOps-Learning-steps)
+- 🔭 **I’m currently working on**: [My DevOps Excercises](https://github.com/Shirley-PH/DevOps-Excercises-for-Begginers)
 
 - 🌱 **I’m currently learning**: Docker, Linux, Cloud Infrastructure, Networking, and Cybersecurity
 
